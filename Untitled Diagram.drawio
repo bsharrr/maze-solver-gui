@@ -228,16 +228,16 @@
             <mxPoint x="175.5" y="37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29QbvSolf8fc6ethr1Fn-16" value="Agent 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="29QbvSolf8fc6ethr1Fn-16" value="&lt;b&gt;Agent 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="32" y="79.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="29QbvSolf8fc6ethr1Fn-17" value="Agent 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="29QbvSolf8fc6ethr1Fn-17" value="&lt;b&gt;Agent 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="202" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="29QbvSolf8fc6ethr1Fn-18" value="Agent 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="29QbvSolf8fc6ethr1Fn-18" value="&lt;b&gt;Agent 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="228" y="79.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="29QbvSolf8fc6ethr1Fn-19" value="Agent 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="29QbvSolf8fc6ethr1Fn-19" value="&lt;b&gt;Agent 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="-32" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
